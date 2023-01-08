@@ -1,0 +1,5 @@
+if tonumber(game.PlaceId) == 4598019433 then
+    print("Hello")
+else
+    warn("No Scripts Available")
+end
