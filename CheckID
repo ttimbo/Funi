@@ -1,5 +1,5 @@
 if tonumber(game.PlaceId) == 4598019433 then
-    print("Hello")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ttimbo/Funnie/main/grg"))()
 else
     warn("No Scripts Available")
 end
