@@ -1,6 +1,6 @@
 PlaceID = tonumber(game.PlaceId)
 if PlaceID == 4598019433 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ttimbo/Funnie/main/grg"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ttimbo/Funi/main/grg"))()
 else
     warn("No Scripts Available")
 end
